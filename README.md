@@ -9,4 +9,4 @@ Projeto de uma pagina web. utilizando-se:
 
 3 - Bootsrap
 
-Todos desafios propostos foram foram realizados!
+Todos desafios propostos foram realizados!
