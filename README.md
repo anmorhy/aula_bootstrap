@@ -1,5 +1,5 @@
 # aula_bootstrap
-Introdução a HTML com desafios DIO - Aula Lucas Vilaboim
+Introdução a HTML com desafios DIO - Aula Rafael Galleani
 
 Projeto de uma pagina web. utilizando-se:
 
